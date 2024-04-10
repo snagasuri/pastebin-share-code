@@ -1,0 +1,1 @@
+saves code snippets which can be retrieved with unique id. allows you to share and execute code online quickly. I made this for when my friends and I were studying for midterms, it was way easier to use this than having to format code on iMessage etc
